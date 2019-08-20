@@ -44,6 +44,7 @@
                     </view>
                     <connections>
                         <outlet property="hajimete_label" destination="jLb-Zq-2O4" id="PPf-8t-eji"/>
+                        <outlet property="teisei_button" destination="u7m-VG-N8J" id="pL4-hl-z3a"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
